@@ -1,1 +1,1 @@
-printf("hello py world")
+print("hello py world")
