@@ -1,7 +1,7 @@
 # Python program to check if
 # given number is prime or not
   
-num = 7
+num = input("Enter the Number: ")
   
 # If given number is greater than 1
 if num > 1:
